@@ -54,6 +54,13 @@ section{
   margin-bottom: 10px;
   text-align: center;
 }
+.icon-small{
+  font-size: 80%;
+  display: block;
+  color:  #2ecc71;
+  float: left;
+  
+}
 /*---Buttons---;*/
  .btn:link,
  .btn:visited {
@@ -213,6 +220,7 @@ h2 {
 
 .section-workouts{
   padding: 0;
+  background-attachment: fixed;
 }
 .workout-showcase {
   list-style: none;
@@ -287,5 +295,66 @@ background-size:cover;
 color: #fff;
 background-attachment: fixed;
  }
+/*--------------------------;*/
+/*Section pricing;*/
+/*--------------------------;*/
+
+ .section-pricing{
+  background-color: #f4f4f4; 
+
+}
+
+.payment-box{
+background-color: #fff;
+border-radius: 10px;
+width: 90%;
+margin-left: 5%;
+
+
+}
+.payment-box div{
+  padding: 25px;
+  border-bottom: 1px solid #E6E6E6FF;
+
+}
+.price-heading{
+font-size: 250%;
+margin-bottom: 10px;
+font-weight: 100;
+color: #2ecc71;
+}
+.price-heading span {
+  font-size: 30%;
+  font-weight: 300;
+  
+  }
+.price-subheading{
+font-size: 80%;
+font-weight: 10;
+color: #666;
+}
+.payment-box ul{
+  list-style: none;
+}
+/*--------------------------;*/
+/*footer;*/
+/*--------------------------;*/
+.footer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
